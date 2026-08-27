@@ -1,6 +1,6 @@
 # SEP Exhaustion Kernel Panic
 
-**Author:** [zeroxjf](https://x.com/zeroxjf)
+**Author:** [0xjohnny](https://x.com/0xjohnny)
 
 ## Warning
 
